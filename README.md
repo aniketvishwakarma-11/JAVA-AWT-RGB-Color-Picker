@@ -64,7 +64,7 @@ This is a simple RGB Color Picker application built using Java's AWT (Abstract W
 
 
 ## Author
-- **Aniket**:
+- **Aniket Vishwakarma**:
 - Developer and creator of the RGB Color Picker application.
 
 ## Acknowledgements
