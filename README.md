@@ -1,7 +1,14 @@
 # RGB Color Picker Application
 
 ## Overview
-This is a simple RGB Color Picker application built using Java's AWT (Abstract Window Toolkit). The application allows users to adjust the red, green, and blue values of a color using sliders and input fields. The resulting color is displayed on the interface, and users can reset the color back to black (RGB: 0, 0, 0).
+This is a simple RGB Color Picker application built using Java's AWT (Abstract Window Toolkit). The application allows users to interactively adjust the red, green, and blue values of a color using sliders. Each slider represents one color channel (Red, Green, and Blue), and as the user moves the sliders, the corresponding color value is updated in real-time.
+
+In addition to the sliders, the application also provides text boxes next to each slider, allowing users to manually enter numeric values (between 0 and 255) for the Red, Green, and Blue channels. This gives users the flexibility to either use the sliders for fine-tuning or directly input values for precise color selection.
+
+The resulting color is dynamically displayed on the interface, providing immediate feedback to the user. The application also includes a reset button, which allows users to reset the color to its default value (RGB: 0, 0, 0). This is particularly useful if the user wants to quickly clear their adjustments and start over with a black color.
+
+Overall, the application combines both manual and interactive ways to set an RGB color, making it user-friendly and flexible for various use cases.
+
 
 ## Features
 - **Color Display**: Shows the resulting color based on the RGB values selected by the user.
@@ -64,7 +71,7 @@ This is a simple RGB Color Picker application built using Java's AWT (Abstract W
 
 
 ## Author
-- **Aniket Vishwakarma**:
+- **Aniket Vishwakarma**
 - Developer and creator of the RGB Color Picker application.
 
 ## Acknowledgements
