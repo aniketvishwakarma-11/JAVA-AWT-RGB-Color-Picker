@@ -49,6 +49,9 @@ This is a simple RGB Color Picker application built using Java's AWT (Abstract W
 - **Scrollbar**: Each RGB color (Red, Green, Blue) has a corresponding scrollbar that adjusts the value of that color.
 - **TextField**: Displays the RGB values and allows input.
 - **Button**: Allows users to set a custom color or reset the color to the default (black).
+##Output:
+![OutputImage](JavaRgb.png)
+
 
 ### Main Class:
 - **RGBProject Class**: Contains the `main()` method, which creates the frame and makes it visible.
