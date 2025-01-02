@@ -50,17 +50,18 @@ This is a simple RGB Color Picker application built using Java's AWT (Abstract W
 - **TextField**: Displays the RGB values and allows input.
 - **Button**: Allows users to set a custom color or reset the color to the default (black).
 
+### Main Class:
+- **RGBProject Class**: Contains the `main()` method, which creates the frame and makes it visible.
+  
 
 ### Output:
-
+---
 ![OutputImage](JavaRgb.png)
 
 
 
 
 
-### Main Class:
-- **RGBProject Class**: Contains the `main()` method, which creates the frame and makes it visible.
 
 ## Author
 - **Aniket**:
